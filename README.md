@@ -3,7 +3,7 @@
 Create
 
 ```terminal
-python3 -m venv NameOfFolderYouWantNameIt
+python3 -m venv NameOfFolder
 ```
 
 environment
