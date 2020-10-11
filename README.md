@@ -2,18 +2,18 @@
 
 Create
 
-```python
+```terminal
 python3 -m venv NameOfFolder
 ```
 
 environment
 
-```python
+```terminal
 source env/bin/activate
 ```
 
 Deactivate
 
-```python
+```terminal
 deactivate
 ```
