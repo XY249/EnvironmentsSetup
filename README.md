@@ -1,11 +1,19 @@
 # EnvironmentsSetup
 
 Create
-```
+
+```python
 python3 -m venv NameOfFolder
 ```
 
-Activate environment
-```
+environment
+
+```python
 source env/bin/activate
+```
+
+Deactivate
+
+```python
+deactivate
 ```
